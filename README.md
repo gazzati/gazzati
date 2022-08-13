@@ -1,11 +1,8 @@
 <h1 align='center'> Hi there 👋, I'm Timur 👨🏻‍💻</h1>
 
 <p align='center'>
-  <a href="#">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=gazzati.gazzati??style=for-the-badge&logo=appveyor">
-  </a>
+  I'm a full-stack developer
 </p>
-
 
 <p align='center'>
   <a href="https://t.me/gazzati">
@@ -72,8 +69,6 @@
 
 <hr>
 
-<p align="right">
-  <a href="https://open.spotify.com/playlist/5jzEI5rgrp5PACV2TVX777?si=d5b4c2413a1f417c">
-    <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</p>
+<a href="#">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=gazzati.gazzati??style=for-the-badge&logo=appveyor">
+</a>
