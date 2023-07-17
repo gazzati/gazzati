@@ -64,9 +64,3 @@
   <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
-
-<hr>
-
-<a href="#">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=gazzati.gazzati??style=for-the-badge&logo=appveyor">
-</a>
